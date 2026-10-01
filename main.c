@@ -8,3 +8,4 @@ int main() {
     printf("The random number is: %d\n", random_number);
     return 0;
 }
+//code written by lyvo <3
